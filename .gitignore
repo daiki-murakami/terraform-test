@@ -1,3 +1,3 @@
 rails-test/.terraform
-terraform.tfstate
-terrafomr.tfstate.backup
+rails-test/terraform.tfstate
+rails-test/terraform.tfstate.backup
